@@ -1,0 +1,15 @@
+C:\Users\victo\source\repos\EF_LPC\Cajero Automatico\Cajero Automatico\obj\Debug\Cajero Automatico.csproj.AssemblyReference.cache
+C:\Users\victo\source\repos\EF_LPC\Cajero Automatico\Cajero Automatico\obj\Debug\Cajero Automatico.csproj.SuggestedBindingRedirects.cache
+C:\Users\victo\source\repos\EF_LPC\Cajero Automatico\Cajero Automatico\obj\Debug\Cajero_Automatico.Login.resources
+C:\Users\victo\source\repos\EF_LPC\Cajero Automatico\Cajero Automatico\obj\Debug\Cajero_Automatico.Properties.Resources.resources
+C:\Users\victo\source\repos\EF_LPC\Cajero Automatico\Cajero Automatico\obj\Debug\Cajero Automatico.csproj.GenerateResource.cache
+C:\Users\victo\source\repos\EF_LPC\Cajero Automatico\Cajero Automatico\obj\Debug\Cajero Automatico.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\EF_LPC\Cajero Automatico\Cajero Automatico\bin\Debug\Cajero Automatico.exe.config
+C:\Users\victo\source\repos\EF_LPC\Cajero Automatico\Cajero Automatico\bin\Debug\Cajero Automatico.exe
+C:\Users\victo\source\repos\EF_LPC\Cajero Automatico\Cajero Automatico\bin\Debug\Cajero Automatico.pdb
+C:\Users\victo\source\repos\EF_LPC\Cajero Automatico\Cajero Automatico\obj\Debug\Cajero Automatico.exe
+C:\Users\victo\source\repos\EF_LPC\Cajero Automatico\Cajero Automatico\obj\Debug\Cajero Automatico.pdb
+C:\Users\victo\source\repos\EF_LPC\Cajero Automatico\Cajero Automatico\obj\Debug\Cajero_Automatico.Menu.resources
+C:\Users\victo\source\repos\EF_LPC\Cajero Automatico\Cajero Automatico\obj\Debug\Cajero_Automatico.Consultar.resources
+C:\Users\victo\source\repos\EF_LPC\Cajero Automatico\Cajero Automatico\obj\Debug\Cajero_Automatico.Depositar.resources
+C:\Users\victo\source\repos\EF_LPC\Cajero Automatico\Cajero Automatico\obj\Debug\Cajero_Automatico.Retirar.resources
